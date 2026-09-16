@@ -2,6 +2,10 @@
 
 Links and resources for the Lecture Series on Building Generative AI Applications.
 
+## Session Plan
+
+**Course materials and plan:** [AI-MasterClass-2026](https://github.com/marsninja/AI-MasterClass-2026/tree/main)
+
 ## Live Session
 
 **Zoom link:** [Join the session](https://zoom.us/j/97735021448?pwd=1NgP6QRY7ut6GN8q3sZbc4599aWEVd.1)
