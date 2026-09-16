@@ -14,5 +14,5 @@ Links and resources for the Lecture Series on Building Generative AI Application
 
 ## Community
 
-- **WhatsApp group:** [Join the group](https://chat.whatsapp.com/GGq0BlfWfIO0Eg8v9RnPZk?s=cl&p=i&mlu=4&ilr=4)
+- **Lecture Series on Building Generative AI Applications WhatsApp group:** [Join the group](https://chat.whatsapp.com/GGq0BlfWfIO0Eg8v9RnPZk?s=cl&p=i&mlu=4&ilr=4)
 - **EESoc WhatsApp channel:** [Follow the channel](https://whatsapp.com/channel/0029VbDlQvYDeOMxvzuNMo1X)
