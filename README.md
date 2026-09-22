@@ -15,6 +15,9 @@ Links and resources for the Lecture Series on Building Generative AI Application
 | Week | Date | Duration | Recording | Passcode |
 |------|------|----------|-----------|----------|
 | Week 01 | 15th September 2026 | 01:06:49 | [Watch recording](https://zoom.us/rec/share/Ae_h6ekH_17DmmTAc5V56JHf0KFMXXI9Sa-rjHRncYjLvqJ_z1Pt4CIqT4FzBXTL.ApA9_7uYWvJBeqZT) | `6Gv1&FcJ` |
+| Week 02 | 22nd September 2026 | - | - | - |
+| Week 03 | - | - | - | - |
+| Week 04 | - | - | - | - |
 
 ## Community
 
